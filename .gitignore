@@ -2,3 +2,4 @@
 #This file should include a list of the files that are private.
 #One example is my OAuth keys.
 
+/tokens.json
